@@ -4,4 +4,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ###### 承接python/rust/react等开发
 
-###### 个人博客地址 [http://42.194.189.204](http://www.littleyy.top/)
+###### 个人博客地址 http://www.littleyy.top
